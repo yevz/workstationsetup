@@ -1,0 +1,10 @@
+[alias]
+	ci = commit
+	co = checkout
+	d = diff
+	dc = diff --cached
+	st = status
+	br = branch
+	logs = log --graph --abbrev-commit --date=short --pretty=format:'%C(red)%h %C(green)%cd%C(cyan)%d %C(reset)%s %C(bold blue)<%an>%C(reset)'
+  amend = commit --amend --no-edit
+
