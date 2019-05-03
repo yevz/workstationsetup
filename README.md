@@ -81,5 +81,8 @@ All tools that will be installed in Windows-workstationsetup.ps1 are located in 
 ### oh-my-zsh
 https://github.com/robbyrussell/oh-my-zsh -> sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
+### oh-my-posh (For Windows)
+https://github.com/JanDeDobbeleer/oh-my-posh
+
 ## iterm2 configuration
 https://gist.github.com/kevin-smets/8568070
