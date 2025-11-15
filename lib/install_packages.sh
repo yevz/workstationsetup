@@ -8,20 +8,26 @@ else
 fi
 
 #Dev Tools
-brew install node
-brew install cask
-brew cask install caskroom/versions/java8
-brew install node
-brew install maven
-brew install yarn
-brew install angular-cli
-brew cask install postman
-gem install hitch
+# brew install node
+# brew install cask
+# brew cask install caskroom/versions/java8
+# brew install node
+# brew install maven
+# brew install yarn
+# brew install angular-cli
+# brew cask install postman
+# gem install hitch
 
 #Productivity Tools
-brew cask install spectacle
-brew cask install flycut
-brew cask install iterm2
+brew install Rectangle
+brew install flycut
+brew install windows-app
+brew install visual-studio-code
+brew install awscli
+brew install git
+brew install git-gui
+brew install docker
+brew install menubarx
 
-#Communication Apps
-brew cask install microsoft-teams
+#image
+brew install m-cli
