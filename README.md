@@ -22,12 +22,24 @@ Bypass proxy settings: localhost,127.0.0.1,196.168.99.100
     * Postman
     * iterm2
     * Microsoft Teams
-    * Spectacle
+    * Rectangle
+    * awscli
+    * git
+    * docker
+    * windows-app
 ```
 
 Run the following in the Terminal:
 ```
 ./Mac-workstationsetup.sh
+```
+
+SSH server access with password:
+```
+ip.txt
+source .bashrc
+ssh servername
+   -> will automatically log you into the server
 ```
 
 Notes: To change permissions of the file `chmod +x ./Mac-workstationsetup.sh` 
