@@ -28,6 +28,7 @@ brew install git
 brew install git-gui
 brew install docker
 brew install menubarx
+brew install zsh-autosuggestions
 
 #image
 brew install m-cli
